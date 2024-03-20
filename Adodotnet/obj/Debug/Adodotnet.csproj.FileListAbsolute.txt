@@ -1,0 +1,10 @@
+C:\Users\ELCOT\Desktop\Dotnet Project\WindowForm\Adodotnet\Adodotnet\bin\Debug\Adodotnet.exe.config
+C:\Users\ELCOT\Desktop\Dotnet Project\WindowForm\Adodotnet\Adodotnet\bin\Debug\Adodotnet.exe
+C:\Users\ELCOT\Desktop\Dotnet Project\WindowForm\Adodotnet\Adodotnet\bin\Debug\Adodotnet.pdb
+C:\Users\ELCOT\Desktop\Dotnet Project\WindowForm\Adodotnet\Adodotnet\obj\Debug\Adodotnet.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Desktop\Dotnet Project\WindowForm\Adodotnet\Adodotnet\obj\Debug\Adodotnet.Form1.resources
+C:\Users\ELCOT\Desktop\Dotnet Project\WindowForm\Adodotnet\Adodotnet\obj\Debug\Adodotnet.Form2.resources
+C:\Users\ELCOT\Desktop\Dotnet Project\WindowForm\Adodotnet\Adodotnet\obj\Debug\Adodotnet.Properties.Resources.resources
+C:\Users\ELCOT\Desktop\Dotnet Project\WindowForm\Adodotnet\Adodotnet\obj\Debug\Adodotnet.csproj.GenerateResource.Cache
+C:\Users\ELCOT\Desktop\Dotnet Project\WindowForm\Adodotnet\Adodotnet\obj\Debug\Adodotnet.exe
+C:\Users\ELCOT\Desktop\Dotnet Project\WindowForm\Adodotnet\Adodotnet\obj\Debug\Adodotnet.pdb
